@@ -44,12 +44,12 @@ This project presents a **fully automated and dynamic Monthly Sales Dashboard** 
 
 ## 📈 Dashboard Preview
 
-### Negative Sales Scenario (Sample Data)
+### Negative Sales Scenario Snapshot 
 https://github.com/vivekkmr62/MONTHLY_SALE_DASHBOARD/blob/main/DASHBOARD_Monthly_Sale%20%281%29.jpeg
 
 ### Actual Monthly Performance Snapshot
-![Actual Sales Snapshot](image2.png)
 
+https://github.com/vivekkmr62/MONTHLY_SALE_DASHBOARD/blob/main/DASHBOARD_Monthly_Sale%20%282%29.jpeg
 ---
 
 ## 📌 Highlights
